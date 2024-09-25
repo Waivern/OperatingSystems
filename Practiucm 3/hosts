@@ -1,0 +1,10 @@
+host1 ansible_host=10.0.111.54 ansible_user=localadmin ansible_ssh_private_key_file=/home/localadmin/.ssh/id_rsa
+
+[initial]
+host1
+
+
+[ongoing]
+host1
+
+
